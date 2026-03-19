@@ -1,0 +1,63 @@
+itemID,itemname,level,amount
+1,credits,1,5520865559235
+2,Clay,300,17536455
+3,Gravel,100,15552969
+7,Concrete,160,8503767
+8,Coal,140,17259638
+10,"Crude Oil",50,2371129
+12,Bauxite,70,29247
+13,"Iron Ore",120,15046472
+14,"Gold Ore",70,14383525
+15,"Silver Ore",45,2154334
+20,Limestone,150,13472724
+22,Fertilizer,100,20878583
+24,Bricks,190,8963580
+26,Chalcopyrite,50,1395828
+28,Insecticides,100,21748043
+30,Steel,200,2716256
+32,Aluminium,100,9898195
+35,Silver,201,114851807
+36,Copper,100,713018
+38,"Fossil Fuel",101,15116077
+40,"Roman Coins",100,46189
+41,Fossils,170,4083764
+42,"Giant Diamond",1,127
+43,"Maintenance Kit",30,28651
+44,"Tech Upgrade 1",5,9129
+45,"Tech Upgrade 2",3,776
+46,"Tech Upgrade 3",2,95
+48,"Tech Upgrade 4",2,294
+49,Ilmenite,60,7
+51,Titanium,80,13190817
+53,"Quartz Sand",70,2039811
+55,"Copper Coins",100,45705
+57,"Old Tires",170,149214
+58,Plastics,110,39019742
+60,Glass,150,6538232
+66,Electronics,71,14624295
+67,Silicon,35,2534934
+70,"Scrap Metal",170,607709
+74,"Used Oil",150,2032565
+75,"Medical Technology",150,71226570
+77,"Plastic Scrap",100,1284
+78,"Electronic Scrap",100,13579
+79,Gold,71,6981163
+81,"Rough Diamonds",270,27890548
+84,Jewellery,101,84492
+87,Weapons,101,3639291
+90,"Lithium Ore",160,77
+92,Lithium,45,3917105
+93,Batteries,50,717593
+96,"Watch Dogs",10,96405
+98,"Security Staff",10,0
+99,"Elite Force",4,11090
+102,"Attack Dogs",10,144309
+104,"Private Army",2,10578
+115,"Waste Glass",170,678761
+117,"Scan Drones",5,962
+120,"Drone Wreckage",40,559
+124,Trucks,40,2554523
+158,"Night Shift",1,0
+159,Overtime,1,1
+160,"Guest Workers",1,1
+161,"Wage Subsidy",1,1
